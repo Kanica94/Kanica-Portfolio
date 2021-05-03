@@ -1,0 +1,17 @@
+/*font-family: 'Poppins', sans-serif;
+font-family: 'Rubik', sans-serif; */
+
+body {
+  background-color: black;
+}
+
+h1 {
+  color: white;
+  font-family: "Rubik", sans-serif;
+}
+
+p {
+  color: white;
+  font-family: "Poppins", sans-serif;
+  font-weight: normal;
+}
