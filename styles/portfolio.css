@@ -10,6 +10,46 @@ body {
   font-family: var(--default-font-family);
 }
 
+header .nav-bg-style {
+  border-bottom: 1px solid #c7c7c7;
+  background-color: white;
+  opacity: 96%;
+}
+
+header .navbar-toggler {
+  background-color: var(--primary-color);
+  border-radius: 2px;
+  border: none;
+  width: 50px;
+  height: 40px;
+}
+
+header .navbar-toggler-icon {
+  width: 24px;
+}
+
+header .nav-link {
+  font-size: 16px;
+}
+
+header .navbar-brand h1 {
+  font-family: var(--heading-font-family);
+  color: var(--secondary-color);
+  font-size: 30px;
+}
+
+header .navbar-brand h1 span {
+  border-bottom: 4px solid var(--primary-color);
+}
+
+header .logo-img {
+  padding-left: 10px;
+}
+
+header .nav-link span {
+  border-bottom: 4px solid var(--primary-color);
+}
+
 .hero {
   background-color: var(--secondary-color);
   text-align: center;
