@@ -93,3 +93,20 @@ h6 {
 .skills-icon1 {
   opacity: 90%;
 }
+
+.about-me-button {
+  text-align: center;
+}
+
+.about-me-button .btn-branding {
+  background: var(--secondary-color);
+  color: rgb(253, 236, 236);
+  border-radius: 4px;
+  font-size: 18px;
+  line-height: 27px;
+  padding: 10px 18px;
+}
+
+.about-me-button .btn-branding:hover {
+  color: var(--primary-color);
+}
