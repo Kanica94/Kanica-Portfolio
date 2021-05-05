@@ -47,22 +47,22 @@ h6 {
   padding: 10px 18px;
 }
 
-.section1 {
+.my-skills {
   text-align: center;
 }
 
-.section1 h2 {
+.my-skills h2 {
   color: var(--secondary-color);
   font-weight: normal;
   font-size: 32px;
   line-height: 1;
 }
 
-.section1 h2 span {
+.my-skills h2 span {
   border-bottom: 4px solid var(--primary-color);
 }
 
-.section1 p {
+.my-skills p {
   color: var(--secondary-color);
   font-family: var(--default-font-family);
   font-weight: normal;
