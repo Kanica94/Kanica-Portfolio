@@ -69,3 +69,27 @@ h6 {
   font-size: 20px;
   line-height: 1;
 }
+
+.skill-set .col-sm-12 {
+  text-align: center;
+  background: var(--primary-color);
+  border-radius: 4px;
+  border: var(--primary-color);
+}
+
+.skill-set h3 {
+  color: #fff7ef;
+  font-size: 24px;
+}
+
+.skill-set p {
+  color: var(--secondary-color);
+  font-family: var(--default-font-family);
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 1;
+}
+
+.skills-icon1 {
+  opacity: 90%;
+}
