@@ -125,6 +125,10 @@ h6 {
   padding: 80px 20px;
 }
 
+.container-footer h1 {
+  font-size: 50px;
+}
+
 .container-footer h1 span {
   border-bottom: 4px solid var(--primary-color);
 }
@@ -143,4 +147,29 @@ footer .mx-md-auto p {
   font-weight: normal;
   font-size: 12px;
   line-height: 1;
+}
+
+@media (max-width: 900px) {
+  .hero h1 {
+    font-size: 50px;
+  }
+  .hero h2 {
+    font-size: 18px;
+  }
+  .my-skills h2 {
+    font-size: 26px;
+  }
+  .my-skills p {
+    font-size: 16px;
+  }
+
+  .skill-set h3 {
+    font-size: 20px;
+  }
+  .skill-set p {
+    font-size: 16px;
+  }
+  .container-footer h1 {
+    font-size: 30px;
+  }
 }
