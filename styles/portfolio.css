@@ -217,4 +217,13 @@ footer .mx-md-auto p {
   .container-footer h1 {
     font-size: 30px;
   }
+  .my-skills {
+    padding-top: 10px;
+  }
+  .about-me-button {
+    padding-bottom: 0px auto;
+  }
+  .container-footer {
+    padding: 80px 20px;
+  }
 }
