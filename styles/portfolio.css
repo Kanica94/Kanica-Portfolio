@@ -118,14 +118,14 @@ h6 {
 
 .skill-set .col-sm-12 {
   text-align: center;
-  background: var(--primary-color);
+  background: #f6f6f6;
   border-radius: 4px;
-  border: var(--primary-color);
+  border: #f6f6f6;
   box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.08);
 }
 
 .skill-set h3 {
-  color: #fff7ef;
+  color: var(--primary-color);
   font-size: 24px;
 }
 
@@ -138,7 +138,7 @@ h6 {
 }
 
 .skills-icon1 {
-  opacity: 90%;
+  color: var(--secondary-color);
 }
 
 .about-me-button {
@@ -225,5 +225,8 @@ footer .mx-md-auto p {
   }
   .container-footer {
     padding: 80px 20px;
+  }
+  .skills-icon1 {
+    font-size: 12px;
   }
 }
