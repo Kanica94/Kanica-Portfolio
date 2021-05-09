@@ -308,6 +308,9 @@ footer .mx-md-auto p {
   border-bottom: 4px solid var(--primary-color);
 }
 
+.recent-projects {
+  margin-bottom: 120px;
+}
 .projects-row img {
   border: 1px rgb(199, 199, 199) solid;
   padding: 5px;
