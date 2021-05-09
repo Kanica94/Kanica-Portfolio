@@ -288,6 +288,25 @@ footer .mx-md-auto p {
   color: rgb(253, 236, 236);
 }
 
+.project-header {
+  background-color: #f6f6f6;
+  padding: 30px;
+}
+
+.project-header h2 {
+  text-align: center;
+  padding-top: 80px;
+  margin-bottom: 100px;
+  color: var(--secondary-color);
+  font-weight: normal;
+  font-size: 52px;
+  line-height: 1;
+}
+
+.project-header h2 span {
+  border-bottom: 4px solid var(--primary-color);
+}
+
 @media (max-width: 900px) {
   .small-nav-flex {
     display: flex;
