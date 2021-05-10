@@ -207,7 +207,7 @@ footer .mx-md-auto p {
 }
 
 footer .skills-icon1 a {
-  margin: 0px 40px;
+  margin: 0px 80px;
 }
 
 /*  About title  */
@@ -425,6 +425,11 @@ footer .skills-icon1 a {
   .container-footer {
     padding: 80px 20px;
   }
+
+  footer .skills-icon1 a {
+    margin: 0px 30px;
+  }
+
   .skills-icon1 {
     font-size: 12px;
   }
