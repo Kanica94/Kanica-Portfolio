@@ -206,6 +206,10 @@ footer .mx-md-auto p {
   line-height: 1;
 }
 
+footer .skills-icon1 a {
+  margin: 0px 40px;
+}
+
 /*  About title  */
 
 .about-title {
